@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "23",
+      "name": "anil T",
+      "email": "anil24@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "45",
+      "name": "seetha",
+      "email": "seetha@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "12",
+      "name": "dona",
+      "email": "dona@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "13",
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "33",
+      "name": "don",
+      "email": "don@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "42",
+      "name": "rony",
+      "email": "rony@gmail.com",
+      "active": "0"
+    }
+  ]
+}
